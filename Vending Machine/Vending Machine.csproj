@@ -126,7 +126,6 @@
     <Content Include="Views\Vending\GetProducts.cshtml" />
     <Content Include="Views\Vending\OpenVendingMachine.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
